@@ -94,7 +94,7 @@ if (ua.includes("Locket")) {
     // ============================================================
     // 3. CAMERA, VIDEO, FILTERS & UPLOAD QUALITY
     // ============================================================
-    var MY_VIDEO_DURATION = 36.0;
+    var MY_VIDEO_DURATION = 15.0;
     
     var cameraConfig = {
         gold_max_duration: MY_VIDEO_DURATION,
