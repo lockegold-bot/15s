@@ -48,7 +48,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "config quay 36s",
+            title: "config quay 15s",
             feature_set: [
                 {
                     title: "tiktok : lkgbyluiu",
