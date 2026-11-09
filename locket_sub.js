@@ -19,7 +19,7 @@ var ua = $request.headers["User-Agent"] || $request.headers["user-agent"],
 if (obj && obj.subscriber) {
     obj.Attention = "Chúc mừng bạn! Vui lòng không bán hoặc chia sẻ cho người khác!";
     
-    var nguyencongan = {
+    var lin = {
         auto_resume_date: null,
         display_name: "locket_1600_1y",
         is_sandbox: true,
